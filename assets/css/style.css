@@ -111,6 +111,7 @@ ul li span{
     top: 0;
     width: 40px;
     background: rgb(151, 143, 143);
+    color: white;
     height: 100%;
     transform: skewY(40deg);
     -webkit-transform: skewY(40deg);
